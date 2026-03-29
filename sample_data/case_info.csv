@@ -1,0 +1,2 @@
+ComplaintID,VictimAccount,FraudAmount,FraudTimestamp,FraudType
+CASE2024001,ACC001,2500000,2024-08-15T10:30:00Z,Layered Mule Account Fund Diversion

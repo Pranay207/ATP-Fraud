@@ -1,0 +1,19 @@
+<svg width="220" height="260" viewBox="0 0 220 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M110 8C132 25 160 29 183 43C206 57 214 84 211 114C206 166 177 208 110 250C43 208 14 166 9 114C6 84 14 57 37 43C60 29 88 25 110 8Z" fill="#060606"/>
+  <path d="M110 48C146 48 177 76 177 112C177 148 146 178 110 178C74 178 43 148 43 112C43 76 74 48 110 48Z" fill="#D71F26"/>
+  <path d="M110 60C139 60 162 83 162 112C162 141 139 164 110 164C81 164 58 141 58 112C58 83 81 60 110 60Z" fill="#F6A21A"/>
+  <path d="M78 94C67 87 56 84 48 83C60 92 67 102 72 114C61 111 49 111 39 114C52 119 62 126 69 137C61 141 52 147 46 156C58 151 70 150 81 152L78 94Z" fill="#4B2A7E" stroke="#E2A63A" stroke-width="2"/>
+  <path d="M142 94C153 87 164 84 172 83C160 92 153 102 148 114C159 111 171 111 181 114C168 119 158 126 151 137C159 141 168 147 174 156C162 151 150 150 139 152L142 94Z" fill="#4B2A7E" stroke="#E2A63A" stroke-width="2"/>
+  <path d="M92 74H128L134 111L110 152L86 111L92 74Z" fill="#4B2A7E" stroke="#E9E2F3" stroke-width="2"/>
+  <path d="M95 82H125" stroke="#E9E2F3" stroke-width="2"/>
+  <path d="M92 96H128" stroke="#E9E2F3" stroke-width="2"/>
+  <path d="M101 74L110 65L119 74" stroke="#E9E2F3" stroke-width="2"/>
+  <text x="110" y="116" text-anchor="middle" fill="white" font-family="Outfit, Arial, sans-serif" font-size="34" font-weight="700">AP</text>
+  <path d="M73 178C84 185 96 190 110 190C124 190 136 185 147 178" stroke="white" stroke-width="5" stroke-linecap="round"/>
+  <path d="M75 198C90 205 100 207 110 207C120 207 130 205 145 198" stroke="white" stroke-width="4" stroke-linecap="round"/>
+  <path d="M64 215C79 225 95 231 110 236C125 231 141 225 156 215" stroke="white" stroke-width="6" stroke-linecap="round"/>
+  <text x="110" y="228" text-anchor="middle" fill="white" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="5">POLICE</text>
+  <path d="M90 25C94 18 99 12 110 12C121 12 126 18 130 25L127 41H93L90 25Z" fill="#D8B12D" stroke="#F5D95C" stroke-width="2"/>
+  <circle cx="110" cy="31" r="6" fill="#C62828"/>
+  <path d="M101 38H119" stroke="#C62828" stroke-width="3" stroke-linecap="round"/>
+</svg>
